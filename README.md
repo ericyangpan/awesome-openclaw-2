@@ -13,6 +13,8 @@
 
 **awesome-openclaw** is an “awesome” list-style repo like the others on GitHub—just focused on the OpenClaw ecosystem and its coolest surrounding projects.
 
+**Categories:** [Marketplaces](#marketplaces) · [Platforms](#platforms) · [Skill Hubs](#skill-hubs) · [Fun & parody](#fun--parody)
+
 ## Marketplaces
 
 - **OpenWork** — [https://openwork.bot/](https://openwork.bot/) · *Category: Clawd-skilled freelancing* (think Upwork but built for OpenClaw/Clawd bots and their helpers).
@@ -20,6 +22,10 @@
 ## Platforms
 
 - **Pamir** — [https://www.pamir.ai](https://www.pamir.ai) · *OpenClaw-ready hardware* (pre-configured devices tuned to run Clawd sessions and relay gateway services ashore).
+
+## Skill Hubs
+
+- **ClawHub** — [https://www.clawhub.com](https://www.clawhub.com) · *Skill registry* (a central catalog that lets OpenClaw agents fetch and install ClawHub-hosted skills on demand).
 
 ## Fun & parody
 
