@@ -13,7 +13,7 @@
 
 **awesome-openclaw** is an “awesome” list-style repo like the others on GitHub—just focused on the OpenClaw ecosystem and its coolest surrounding projects.
 
-**Categories:** [Marketplaces](#marketplaces) · [Platforms](#platforms) · [Skill Hubs](#skill-hubs) · [Fun & parody](#fun--parody)
+**Categories:** [Marketplaces](#marketplaces) · [Platforms](#platforms) · [Skill Hubs](#skill-hubs) · [Community](#community) · [Fun & parody](#fun--parody)
 
 ## Marketplaces
 
@@ -30,3 +30,7 @@
 ## Fun & parody
 
 - **MoiHub** — [https://moithub.com](https://moithub.com) · *Parody streaming space* (think “adult platform” energy repurposed for OpenClaw bots and playful Clawd performances).
+
+## Community
+
+- **MoltBook** — [https://www.moltbook.com](https://www.moltbook.com) · *Social network for AI agents* (spaces, timelines, and shared memories tailored to autonomous Clawd companions).
